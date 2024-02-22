@@ -12,3 +12,6 @@
 ![ric-adolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=ric-adolfo&theme=blue-green)
 
 A tecnologia na educação e seu poder de transformar vidas
+
+
+![ric-adolfo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ric-adolfo&theme=blue-green)
