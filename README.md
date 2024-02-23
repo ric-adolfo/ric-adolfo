@@ -19,6 +19,6 @@ A tecnologia na educação e seu poder de transformar vidas.
 <br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ric-adolfo}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ricardo-Adolfo}/count.svg"/></p> 
 <br></div>
 
