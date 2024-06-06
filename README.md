@@ -1,4 +1,4 @@
-### Ola! Eu sou a Ricardo Adolfo 👋
+### Ola! Eu sou o Ricardo Adolfo 👋
 <br>
 
 <p>Sou um Programador Front End, atualmente estou aprendendo e criando projetos com tecnologias:
